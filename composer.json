@@ -1,5 +1,5 @@
 {
-	"name": "aromq-testproject",
+	"name": "aromq/testproject",
 	"description": "A simple test project lol",
 	"type": "library",
 	"license": "GPL-3.0",
